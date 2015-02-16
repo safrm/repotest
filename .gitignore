@@ -1,0 +1,8 @@
+rpm/*
+*.changes
+debian/changelog
+debian/files
+debian/repotest.debhelper.log
+debian/repotest.substvars
+debian/repotest/
+

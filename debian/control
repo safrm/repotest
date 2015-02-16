@@ -1,0 +1,14 @@
+Source: repotest
+Section: utils
+Priority: optional
+Maintainer: Miroslav Safr <miroslav.safr@gmail.com>
+Build-Depends: debhelper (>= 5), appver, jenkins-support-scripts (>=1.2.3)
+Standards-Version: 3.8.1
+Homepage: http://safrm.net/projects/repotest
+
+Package: repotest
+Architecture: all
+Depends: 
+Description: Package for testing deb and rpm repo
+
+
